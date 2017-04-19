@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="emptyText">No News found at this tim</string>
+    <string name="no_connection">No Connectivity, Please Check Your Internet</string>
+
+</resources>
